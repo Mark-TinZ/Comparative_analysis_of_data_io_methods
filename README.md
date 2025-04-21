@@ -14,7 +14,7 @@ sh benchmark.sh
 sh benchmark.sh 10
 ```
 
-Пропустить компиляцию можно так?
+Пропустить компиляцию можно так:
 ```
 sh benchmark.sh --no-compile
 ```
